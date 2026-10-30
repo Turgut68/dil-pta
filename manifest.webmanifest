@@ -1,0 +1,11 @@
+{
+  "name": "Dil’s PTA-Trainer",
+  "short_name": "Dil’s PTA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f1",
+  "theme_color": "#f4f5f1",
+  "lang": "de",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}
